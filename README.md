@@ -1,2 +1,3 @@
 # mymedical
-ignition hacks healthcare project
+
+Ignition Hacks MyMedical project
